@@ -1,0 +1,6 @@
+C:\Users\MUHAMMAD SALMAN\Desktop\SaleManagementSystem\SaleManagementSystem\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\MUHAMMAD SALMAN\Desktop\SaleManagementSystem\SaleManagementSystem\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\MUHAMMAD SALMAN\Desktop\SaleManagementSystem\SaleManagementSystem\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\Users\MUHAMMAD SALMAN\Desktop\SaleManagementSystem\SaleManagementSystem\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD SALMAN\Desktop\SaleManagementSystem\SaleManagementSystem\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\MUHAMMAD SALMAN\Desktop\SaleManagementSystem\SaleManagementSystem\ACM.BL\obj\Debug\ACM.BL.pdb
